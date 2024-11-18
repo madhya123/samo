@@ -1,1 +1,2 @@
-# samo
+FSD
+Full stack developement
